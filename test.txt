@@ -1,1 +1,2 @@
-git this is a git text.
+$git this is a git text.
+very good!
